@@ -8,7 +8,7 @@
     max: 12,
     tolerance: 0.02,
     truncate: false,
-    width: null,
+    width: '250px',
     sampleNumberOfLetters: 10,
     sampleFontSize: 12
   };
